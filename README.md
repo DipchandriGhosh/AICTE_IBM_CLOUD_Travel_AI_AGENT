@@ -1,4 +1,4 @@
-#🧭 Travel Planner Agent
+#Travel Planner Agent
 An AI-powered assistant that helps users plan trips efficiently and intelligently using real-time data, personalized recommendations, and smart scheduling.
 
 #📌 Features
