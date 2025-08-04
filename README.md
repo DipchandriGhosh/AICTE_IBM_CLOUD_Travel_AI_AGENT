@@ -1,49 +1,50 @@
-#Travel Planner Agent
+#Travel Planner Agent- 
 An AI-powered assistant that helps users plan trips efficiently and intelligently using real-time data, personalized recommendations, and smart scheduling.
 
-#📌 Features
-🔍 Suggests destinations based on preferences
+#📌 Features-
+1.🔍 Suggests destinations based on preferences
 
-🧠 Builds optimized itineraries
+2.🧠 Builds optimized itineraries
 
-🏨 Recommends transport & accommodation
+3.🏨 Recommends transport & accommodation
 
-🌦️ Integrates maps, weather & local guides
+4.🌦️ Integrates maps, weather & local guides
 
-📅 Manages bookings & sends real-time alerts
+5.📅 Manages bookings & sends real-time alerts
 
-🎯 Personalized and user-friendly interface
+6.🎯 Personalized and user-friendly interface
 
-#🚀 Technologies Used
-🐍 Python
+#🚀 Technologies Used-
+1.🐍 Python
 
-🖼️ Streamlit
+2.🖼️ Streamlit
 
-🧠 IBM Watsonx (Granite Foundation Model)
+3.🧠 IBM Watsonx (Granite Foundation Model)
 
-📡 APIs for weather, maps, bookings (mock or real)
+4.📡 APIs for weather, maps, bookings (mock or real)
 
-📊 Pandas, Requests, Langchain (optional for agent logic)
+5.📊 Pandas, Requests, Langchain (optional for agent logic)
 
-#👥 End Users
-Frequent travelers
+#👥 End Users-
+1.Frequent travelers
 
-Solo and family vacationers
+2.Solo and family vacationers
 
-Students and budget explorers
+3.Students and budget explorers
 
-Travel agencies (white-label use)
+4.Travel agencies (white-label use)
 
-#🔮 Future Scope
-Voice assistant integration
+#🔮 Future Scope-
+1.Voice assistant integration
 
-Multilingual support
+2.Multilingual support
 
-AI learning from feedback
+3.AI learning from feedback
 
-Calendar and email sync
+4.Calendar and email sync
 
-Augmented reality (AR) virtual tours
+5.Augmented reality (AR) virtual tours
 
-#📌 Conclusion
+#📌 Conclusion-
+
 The Travel Planner Agent transforms complex trip planning into a seamless and enjoyable experience by integrating intelligent suggestions, real-time data, and automation — all in a user-friendly interface.
